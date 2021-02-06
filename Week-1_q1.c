@@ -12,5 +12,6 @@ int main()
     printf("The Substraction of %d and %d is %d \n",a,b,a-b);
     printf("The Multiplication of %d and %d is %d \n",a,b,a*b);
     printf("The Division of %d and %d is %.2f \n",a,b,(float)a/b);
+    printf("The Modulus of %d and %d is %d \n",a,b,a%b);
     return 0;
 }
