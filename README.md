@@ -1,2 +1,2 @@
 # Lift_off_Assignment
-Assignment 1
+Assignments
